@@ -17,7 +17,7 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 the trained agent in action! :
 
-![](images/rl/breakout.gif)
+![](images/rl/breakout2.gif)
 
 
 lot of this work is inspired by Auélien Géron's Book
