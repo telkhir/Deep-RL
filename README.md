@@ -26,6 +26,13 @@ lot of this work is inspired by Auélien Géron's Book
 
 #### Run project locally
 
+create a conda environment using the requirement.txt file:
+
+conda create --name rl_env --file requirement.txt
+
+This uses Tensorflow 2.0 and TF-agents 0.3. 
+Workes and tested on Window10 and Linux as well  
+
 
 #### Technologies
 
