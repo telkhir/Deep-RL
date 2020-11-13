@@ -1,5 +1,5 @@
 # Deep-RL
-In this project I trained a DQN (Deep Q-Network) agent 
+This project tackles the training of a DQN (Deep Q-Network) agent 
 to learn how to play the popular Atari game "Breakout".
 
 the training was done on a 8cpu GCP VM, 
@@ -29,6 +29,8 @@ lot of this work is inspired by Auélien Géron's Book
 create a conda environment using the requirement.txt file:
 
 conda create --name rl_env --file requirement.txt
+
+and you are all set !
 
 This uses Tensorflow 2.0 and TF-agents 0.3. 
 Workes and tested on Window10 and Linux as well  
