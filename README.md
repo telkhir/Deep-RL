@@ -15,11 +15,9 @@ The Architecture and hyperparams of the DQN network
 are the same used in the original DQN paper by Deepmind
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
-the trained agent in action! :
+the trained agent in action :
 
-![](breakout.gif)
-
-<img src="breakout.gif" width="160" height="210"/>
+<img src="breakout.gif" width="260" height="310"/>
 
 
 lot of this work is inspired by Auélien Géron's Book
